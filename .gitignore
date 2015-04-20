@@ -1,0 +1,13 @@
+# Basic ignore for gradle + eclipse
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.classpath
+.settings/
+.gradle/
+
