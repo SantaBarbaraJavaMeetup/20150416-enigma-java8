@@ -15,3 +15,17 @@ rotor3 = 1
 ```
 
 This matches [this](http://startpad.googlecode.com/hg/labs/js/enigma/enigma-sim.html) website's enigma machine.
+
+### Requirements
+
+JDK 8 to build and JRE 8 to run.
+
+### Building
+
+`./gradlew build`
+### Eclipse Project Setup
+
+`./gradlew eclipse`
+### IntelliJ Project Setup
+
+`./gradlew idea`
