@@ -10,4 +10,5 @@ tmp/
 .classpath
 .settings/
 .gradle/
+build/
 
